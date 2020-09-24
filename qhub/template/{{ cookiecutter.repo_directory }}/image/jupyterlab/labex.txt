@@ -1,0 +1,14 @@
+@jupyter-widgets/jupyterlab-manager
+dask-labextension
+@pyviz/jupyterlab_pyviz
+jupyterlab-videochat
+@jupyterlab/toc
+@deathbeds/jupyterlab-font-dejavu-sans-mono
+@deathbeds/jupyterlab-font-fira-code
+@deathbeds/jupyterlab-fonts
+@deathbeds/jupyterlab-starters
+@krassowski/jupyterlab-lsp
+@jupyter-widgets/jupyterlab-manager
+@jupyterlab/debugger
+@jupyterlab/git
+nbdime-jupyterlab
